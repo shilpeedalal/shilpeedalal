@@ -1,4 +1,4 @@
-# shilpeedalal.github.io
+# shilpeedalal.github.io 
 # 👋 Hi, I'm Shilpee
 ### Backend Developer | Node.js | MongoDB | Express.js
 
@@ -20,6 +20,7 @@
 ## 🛠 Skills
 - **Programming Languages**: JavaScript, C/C++
 - **Backend**: Node.js, Express.js, MongoDB, REST APIs
+- **Data Structures**: Arrays, Linked Lists, Stacks, Queues, Trees
 - **Version Control**: Git, GitHub, Postman
 - **CI/CD**: GitHub Actions (automated testing, deployment pipelines)
 - **Cloud Services**: AWS (S3, Lambda, IAM)
@@ -36,9 +37,9 @@
   A full-featured app for contact management, featuring CRUD APIs, user authentication, and secure data handling with MongoDB. Built on Node.js and Express.js, it provides login/register APIs with JWT-based access control, allowing users to manage their contacts efficiently.
 
 ## 🌱 Currently Learning
-- GraphQL for API development
-- Docker and Kubernetes for containerization
-- Exploring AWS deeper with Lambda and EC2
+- Data Structures and Algorithms for improved problem-solving skills
+- Exploring AWS services and architecture for scalable applications
+- System Design principles to build efficient and maintainable systems
 
 ## 💼 Experience
 - **Backend Developer**  
@@ -50,6 +51,9 @@
 ## 📫 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shilpee-dalal-466761224/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shilpeedalal)
+
+
+
 
 
 
