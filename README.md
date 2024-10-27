@@ -1,4 +1,3 @@
-# shilpeedalal.github.io 
 # 👋 Hi, I'm Shilpee
 ### Backend Developer | Node.js | MongoDB | Express.js
 
