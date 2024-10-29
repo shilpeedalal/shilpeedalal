@@ -6,7 +6,7 @@
 **Welcome to my GitHub portfolio!** I am a backend developer with experience in building scalable and secure web applications.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-https://camo.githubusercontent.com/34f7bd4580cb139d4ded5c1014a0909ffb4f088bde0290558083ba261023416b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074
+![JavaScript](https://camo.githubusercontent.com/34f7bd4580cb139d4ded5c1014a0909ffb4f088bde0290558083ba261023416b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
