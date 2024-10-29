@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Shilpee;Backend+Developer+|+Node.js+|+Express+|+MongoDB)](https://git.io/typing-svg)
 
-**Welcome to my GitHub portfolio!** I am a backend developer with experience in building scalable and secure web applications.
+**Welcome to my GitHub portfolio!** I am a backend developer with experience in building scalable and secure web applications. 
 
 ![JavaScript](https://camo.githubusercontent.com/34f7bd4580cb139d4ded5c1014a0909ffb4f088bde0290558083ba261023416b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074)
 ![C](https://camo.githubusercontent.com/87f122a2f0e5f66a48fd63d0c6b31c1c025bc1774913b9c9194f9dff05f3cbce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432d3035313232413f7374796c653d666c6174266c6f676f3d43266c6f676f436f6c6f723d413842394343)
